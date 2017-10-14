@@ -1,0 +1,1 @@
+Framesize_mm=50
